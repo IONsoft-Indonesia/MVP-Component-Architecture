@@ -17,10 +17,10 @@ Speaker: Nur Hidayat (Kipli)
 ## Participants :
 1. Hendra Wijaya Djiono
 2. Nur Hidayat (Kipli)
-4. Dian Lestari Suihana
-5. Nur Endah Irwanti
-6. Budi
-7. Abu Rizal
+3. Dian Lestari Suihana
+4. Nur Endah Irwanti
+5. Budi
+6. Abu Rizal
 
 ## What we have learned?
 1. Android Architecture Component
