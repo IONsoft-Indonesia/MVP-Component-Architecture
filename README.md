@@ -1,6 +1,9 @@
 # MVP-Component-Architecture
 Sample Component Archiecture.
 
+### Note from the speaker:
+>Because of the limited time and lack of preparation, so this sharing is unfinished, though once the result is over. maybe at other times can better prepare the material to be discussed so that it can use the time well. Thank you for taking the time to participate in this sharing session.
+
 Date: May 3, 2018
 
 Time : 15.00-18.00
